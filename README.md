@@ -7,5 +7,7 @@ Simple Agent:
 <li>Has no memory in the previous states.</li>
 </ul>
 Simple Agent With State:
+<ul>
 <li>Sensors observe the surrounding space before responding.</li>
 <li>Has memory in the previous state.</li>
+</ul>
